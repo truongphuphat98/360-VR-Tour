@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/360 Virtual Tour/Scenes/VRTour_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
